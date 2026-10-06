@@ -1,4 +1,4 @@
-# Renovate: Flutter SDK `dev.flutter.flutter-plugin-loader` Gradle plugin always fails lookup
+# renovatebot/renovate#46801: Flutter SDK `dev.flutter.flutter-plugin-loader` Gradle plugin always fails lookup
 
 Minimal reproduction for a Renovate "Suggest an idea" discussion (link below).
 
@@ -34,4 +34,4 @@ The gradle manager skips the Flutter SDK's `dev.flutter.*` plugins at extraction
 
 ## Link to the Renovate issue or Discussion
 
-<!-- DISCUSSION_LINK -->
+https://github.com/renovatebot/renovate/discussions/46801
